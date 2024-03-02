@@ -1,0 +1,818 @@
+#########################################
+# 				 	#
+#     HaLiux Developement Log 000  	#
+#				 	#
+#########################################
+
+-----------------------------------------
+#	Log information			#
+-----------------------------------------
+# HaLiux-project developement journal	#
+# Mission progress and documentation	#
+# Personal diary and notes		#
+-----------------------------------------
+
+-----------------------------------------
+# 	Log author information		#
+-----------------------------------------
+# Username: henkka			#
+# Hostname: void-linux			#
+-----------------------------------------
+# Full name: Henri Aleksi Liukka	#
+# Age: 41				#
+# Profession: carpenter			#
+# Skills: science, nature, technology	#
+# Organization:	local non-profit	#
+# Position: member of the board		#
+# Details: physical health issues	#
+-----------------------------------------
+# 	Project user details		#
+-----------------------------------------
+# Position: rescue team leader, pilot	#
+# Rank:	science officer 1st class	#
+# Duty 1: sys-dev-sec-com-operation	#
+# Duty 2: project management, logs	#
+# Duty 3: personal trainer, cook	#
+# Progress: advancing 			#
+# Status: active on the mission #000	#
+-----------------------------------------
+
+-----------------------------------------
+#	Project information		#
+-----------------------------------------
+# Project name: Get out of the box	#
+# Objective1: create an HaLiux OS proto	#
+# Objective2: share the HaLiux OS code 	#
+# Objective3: distribute the HaLiux OS	#
+-----------------------------------------
+#	What is HaLiux OS		#
+-----------------------------------------
+
+- Home and Local interactive user experience Operating System -
+
+- Personal digital computer and mobile device graphical desktop -
+
+- HaLiux OS distribuition is based on Void Linux and River WM -
+
+- Musl, Runit, Wayland and Zig allow optimal code environment -
+
+- AI-integrations and voice control for maximum productivity -
+
+- Built-in advanced networking protocols and cloud platforms -
+
+- Full suite of communication, media and document applications -
+
+- Special IDE tools and applications for software developement -
+
+- Works out of the box, suitable for home users and offices -
+
+- Spaceship main control firmware with hypercode quantum warp -
+
+-----------------------------------------
+#	Project status			#
+-----------------------------------------
+# Project HaLiux OS developement phase	#
+# Mission #000 active			#
+# Progress 1%				#
+# Updated Fri 01 Mar 2024		#
+-----------------------------------------
+-----------------------------------------
+# 	Project background		#	
+-----------------------------------------
+
+henkka@void-linux:
+
+"It all started when I realised I was hooked in a tiny electronic machine that pumps synthetic hormone in me." 
+
+"What if this thing runs out of battery? What's going on here, where am I actually...?"
+
+"The space around me looked dark, cold and empty, like the light of the stars had been dimmed by some impenetrable fog. Distant glow of articial light is a sign of something..."
+
+# 	Somewhere in time and space	#
+#	A pilot in a spaceship		#
+# 	Infinite potential void		#
+
+"Specific location unknown, switching to local area scanning... done"
+
+"I landed on the spot recently and by accident. My personal starship started to fall apart after some forty years of service, and I had to make an emergency landing and come down to the surface..."
+
+"Great, stuck in the middle of nowhere on a face of a moist and rocky planet, somewhere far far away in a mysterious distant galaxy. I wonder what's next...?"
+
+"Take it easy, take a breath, have a break, get some rest. The ship needs some serious repairs, maybe the whole new upadated code system installation, I'm going to be be here for a while..."
+
+" !Hyperspace drive fault! "
+
+#	Status stalled			#
+#	Unexpected errors		#
+#	Emergency program started	#
+-----------------------------------------
+#	Initialising...			#
+-----------------------------------------
+
+-----------------------------------------
+# 	Mission information		#
+-----------------------------------------
+# Mission number: #000 			#
+# Mission name: Set up the system	# 
+# Location: Ship wreck base camp	#
+# Objectives: A powerful daily driver   #
+- fully functional workstation
+- code writing developement environment
+- AI-implementations
+- network developement
+- cloud computing
+- collaboration platform	
+- social communication and sharing
+- multimedia production 
+- general office work
+-----------------------------------------
+
+-----------------------------------------
+# 	System specifications		#
+-----------------------------------------
+Hardware: 		Lenovo Thinkpad E560 Laptop, CPU: Intel i7 2,5GHz, RAM: 12GB, SSD 180GT, GPU1: Intel Skylake GT2 520, GPU2: AMD ATI Radeon 8670A, 1920x1080
+Operating system: 	Void Linux x86_64_musl 6.6.18_1
+Graphical desktop: 	River WM
+Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO compromise!
+-----------------------------------------
+
+-----------------------------------------
+# 	To to list			#
+-----------------------------------------
+-configure River WM: menu, launcher, application spawn, network
+-improve base system functionality: system administration tools
+-configure bash shell scrip: path, aliases, environmental variables
+-install neessary and recommended applications: developement, office, media
+-configure bash shell script
+-modify shell prompt to show path
+-configure riverwm init file
+-key bindings, application spawn
+-theme, wallpaper, menu, launcher
+/configure htop meters and bars		/
+-GPU setup to activate AMD ATI Radeon
+/garden project developement plan	/
+/garden project funding application	/
+-reply to accountant email
+-configure bash shell with redvoc-style prompt
+-write scripts and aliases for weather and speedtest
+-run river wm in debug log mode to track errors
+-configure river wm init file to fix issues
+-setup wireless network connection
+-configure ssh connection to the server
+-research necessary applications to improve system usability
+-install river wm compatible wayland desktop helper applets
+-network configuration GUI
+-system settings manager CLI/GUI
+-desktop appearance setup tools
+-----------------------------------------
+
+-----------------------------------------
+#	Progress			#
+-----------------------------------------
+-waybar is visible, status indicators seem to work
+-fuzzel launches once at startup
+-firefox and foot key bindings work
+-wired internet connection established
+-firefox fonts, sound and video works
+-bash shell configuration file edits apply to the foot terminal
+-neofetch works properly in foot, no "radeon_ring" warnings
+-project setup and loggin can be done in graphical mode
+-succesfully edited river init file configurations
+-fuzzel, clementine and vlc key bindings work
+-clementine music player launches and tray icon works
+-htop meters and information display setup done
+-some aliases and bash scripts written
+-log file format set
+-log backup bash script created
+-error logs directory set and debug logging tested
+-local repository directory created, git installed
+-some river wm configurations ok
+-clementine music player and vlc media player installed
+-log project information tables updated
+-cmatrix terminal screensaver
+-onion soup is ready
+-updates and software downloaded and installed
+-additional support hardware added to project
+-main ship battery test indicates good condition
+-----------------------------------------
+
+-----------------------------------------
+#	Issues and bugs			#
+-----------------------------------------
+-graphics drivers not working properly, GPU2 not recognised
+-all keyboard bindings are not working properly, log warnings
+-keyboard and/or screen freezes after exiting river-session (Super+Shift+E works) !Ctrl+Alt+Del forced reboot needed to escape the situation!
+-no menu, other programs won't launch in graphical mode 
+-ther appllications with key bindigs seem to open and run in the background within the main bash session, this might cause crashing...???
+-some more issues logged
+-river wm session exit (Super+Shift+E) crashes the system forcing to Ctrl+Alt+Del-reboot
+-no menu, no workspaces, no application bar
+-some keybindings and riverctl commands don't work
+-wireless network connection inactive
+-AMD ATI Radeon GPU not used
+-----------------------------------------
+
+-----------------------------------------
+#	Recommended software		#
+-----------------------------------------
+-proton applications - mail, pass, vpn, drive
+-LM studio - large language model control
+-Anything LLM - document integration software
+-logsec - notes and documents reference dtabase
+-LunarVim IDE - integrated developement environment
+-onlyoffice - documents and datasheets suite
+-mupdf pdf document editor with AI implementations
+-thunderbird - email and calendar
+-gimp - image manipulation program
+-focalboard - project management board
+-nextcloud - shared cloud collaboration platform
+-reaper DAW - digital audio workstation
+-git - software developement and collaboration
+-----------------------------------------
+
+-----------------------------------------
+#	System status details			#
+-----------------------------------------
+#	!System status alert!		#
+-root file system disk partition 95% full, 9.5GB / 10GB used
+-remove unused/obsolete content from the disk
+-repartition/format SDD disk to increase root partition volume
+#	System status update		#
+-root filesystem low disk space issue solved
+-removed a huge 4GB font collection NerdFonts
+-installed some additional fonts and river-compatible applications
+#	System status update		#
+-base system is up to date and running well
+-very low memory usage on idle <200MB
+-disk space on filesystems ok
+-some essential system administration tools installed
+-system developement log regular updates
+-wired internet connection ok
+-graphical desktop launches and can be used
+-firefox web browser is functional
+-foot terminal works
+-fuzzel program launcher active
+-----------------------------------------
+
+-----------------------------------------
+#	Journal entry format		#
+-----------------------------------------
+-----------------------------------------
+# 	Journal entry XXX		#
+# Day X(XX)				#
+# Date: Xxx XX Xxx XXXX			#
+# Time: XX:XX				#
+
+user@host:
+
+"Quote"
+
+#	End of journal entry XXX	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 001		#
+# Day 1					#
+# Date: Wed 28 Feb 2024			#
+# Time: 02:22				#
+
+henkka@void-linux: 
+
+"Ok, I finally got this base system running, now I can write a log to keep track of progress during this mission. Start by building the log basefile like this..."
+
+"Came down to the boiler room to check the heating systems, everything seems to be okay. Just had a nice meal, french onion soup boosted with some spaghetti and parmesan cheese, as delicious as it sounds ;] "
+
+"And yeah I had an after meal smoke too, that hit hard ehe... 8) Lets see if I can get something useful done..."
+
+# 	System specifications		#
+Hardware: 		Lenovo Thinkpad E560 Laptop, CPU: Intel i7 2,5GHz, RAM: 12GB, SSD 180GT, GPU1: Intel Skylake GT2 520, GPU2: AMD ATI Radeon 8670A, 1920x1080
+Operating system: 	Void Linux x86_64_musl 6.6.18_1
+Graphical desktop: 	River WM
+Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO compromise!
+
+henkka@void-linux:
+
+"Neofetch shows some graphics errors in terminal, probably related to dual-GPU setup. It works OK in graphical session though...? I tried Xfce-desktop version before reinstalling the whole system with River WM"
+
+"To be continued and updated..."
+
+#	End of journal entry 001	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 002		#
+# Day 1					#
+# Date: Wed 28 Feb 2024			#
+# Time: 14:20				#
+
+henkka@void-linux:
+
+"Woke up in the morning, continue my journey, did some editing to this file..."
+
+# 	To to list			#
+-configure River WM: menu, launcher, application spawn, network
+-improve base system functionality: system administration tools
+-configure bash shell scrip: path, aliases, environmental variables
+-install neessary and recommended applications: developement, office, media
+
+#	End of journal entry 002	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 003		#
+# Day 1					#
+# Date: Wed 28 Feb 2024			#
+# Time: 16:21				#
+
+henkka@void-linux:
+
+"Feeling a bit dizzy because of some sort of a neural degradation disease... Maybe it's this special space environmetn, polluted climate, toxic soil or inhuman social sturctures that make me sick...?"
+
+"Yeah I try to save myself from doom! This mission is important for the survival of the whole planetary ecosystem and humanity, even life in general... More updating the logfile and some bash script testing..."
+
+"Maybe I should share some more information about this codespace exploration, I've had to concentrate fully on the base system setup so I've not had time or energy to update the background information..."
+
+"More information about the project, background, history and current situation and mission at hand is coming anytime soon... Stay focused!"
+
+#	End of journal entry 003	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 004		#
+# Day 1 				#
+# Date: Wed 28 Feb 2024			#
+# Time: 17:33				#
+
+henkka@void-linux:
+
+"Ok I did some configurations, now let's see if the graphical desktop environment works any better than before."
+
+"Previous experiments have resulted in some bugs and crashes but some things are working somehow. Hopefully I got some issues fixed..."
+
+"Starting river, debug logging on, stand by..."
+
+#	End of journal entry 004	#
+-----------------------------------------
+
+
+-----------------------------------------
+# 	Journal entry 005		#
+# Day 1					#
+# Date: Wed 28 Feb 2024			#
+# Time: 18:41				#
+
+henkka@void-linux:
+
+"Well, still no progress in getting River WM to work properly... Crash and reboot!"
+
+"But at least some things work! I am writing this entry in River WM graphical session, foot as a terminal and with nano text editor, back to the 80's retro computing..."
+
+#	Progress			#
+-waybar is visible, status indicators seem to work
+-fuzzel launches once at startup
+-firefox and foot key bindings work
+-wired internet connection established
+-firefox fonts, sound and video works
+-bash shell configuration file edits apply to the foot terminal
+-neofetch works properly in foot, no "radeon_ring" warnings
+-project setup and loggin can be done in graphical mode
+
+#	Bugs and Issues			#
+-graphics drivers not working properly, GPU2 not recognised
+-all keyboard bindings are not working properly, log warnings
+-keyboard and/or screen freezes after exiting river-session (Super+Shift+E works) !Ctrl+Alt+Del forced reboot needed to escape the situation!
+-no menu, other programs won't launch in graphical mode 
+-ther appllications with key bindigs seem to open and run in the background within the main bash session, this might cause crashing...???
+-some more issues logged
+
+"Now let's get down to business baby, backup and restart!"
+
+"Trying to save the world from humanity and myself from the world, is it possible...?"
+
+"Hopefully this wasn't all in vein... "
+
+#	End of journal entry 005	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 006		#
+# Day 1					#
+# Date: Wed 28 Feb 2024			#
+# Time: 20:31				#
+
+henkka@void-linux:
+
+"Hmm some interesting news from the scenes, looks like I'm running out of disk space on my root partition???"
+
+"Need to do further investigations on the issue, maybe the base system needs a bigger partition than I thought...?"
+
+#	!System status alert!		#
+-root file system disk partition 95% full, 9.5GB / 10GB used
+-remove unused/obsolete content from the disk
+-repartition/format SDD disk to increase root partition volume
+
+"Ok, next things to do in order to continue the mission: healthy vegetarian food, fresh air, physical excercise, music, dance, social face-to-face conversations with family and friends..."
+
+#	End of journal entry 006	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 007		#
+# Day 1					#
+# Date: Wed 28 Feb 2024			#
+# Time: 22:57				#
+
+henkka@void-linux:
+
+"Yess the problem is solved, it was those NerdFonts that populated half of my root disk partition!"
+
+"Removed NerdFonts fonts manually and installed some new fonts, lets see how they work..."
+
+"I also found a good helper tool to explore btrfs-filesystems, it's called btdu." 
+
+#	System status update		#
+-root filesystem low disk space issue solved
+-removed a huge 4GB font collection NerdFonts
+-installed some additional fonts and river-compatible applications
+
+#	End of journal entry 007	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 008		#
+# Day 2					#
+# Date: Thu 29 Feb 2024			#
+# Time: 00:08				#
+
+henkka@void-linux:
+
+"Did some research on useful open source applications and AI-cloud computing systems."
+
+#	Recommended software		#
+-LM studio - large language model control
+-Anything LLM - document integration software
+-logsec - notes and documents reference dtabase
+-LunarVim IDE - integrated developement environment
+-onlyoffice - documents and datasheets suite
+-updf pdf document editor with AI implementations
+-thunderbird - email and calentar
+-gimp - image manipulation program
+-focalboard - project management board
+-nextcloud - shared cloud collaboration platform
+
+"It's getting late, I wonder if it's a good time to shut down the system and take some rest... naahh let's code some more, one more line..."
+
+"Promised to take the dog out for a walk, gotta go soon. Running gear cheklist for visiting outdoors... 
+
+"Let's see, sec-boots, envi-suit, haz-gloves, headlight, emergency harness, safety leash... all OK."
+
+"Don't forget the dog."
+
+#	End of journal entry 008	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 009		#
+# Day 2					#
+# Date: Thu 29 Feb 2024			#
+# Time: 01:07				#
+
+henkka@void-linux:
+
+" Build a fast hypercode space-vessel capable of ecploring deep dimensions of the universe."
+
+" It is what is it, out of the box! Have you seen HaLiux, there's something in here worth digging..."
+
+" Last thing to do today is the to do list for tomorrow..."
+
+# 	To do list			#
+-configure bash shell script
+-modify shell prompt to show path
+-configure riverwm init file
+-key bindings, application spawn
+-theme, wallpaper, menu, launcher
+/configure htop meters and bars		/
+-GPU setup to activate AMD ATI Radeon
+
+" My butt is getting numb, too much sitting I guess..."
+
+#	End of journal entry 009	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 010		#
+# Day 2					#
+# Date: Thu 29 Feb 2024			#
+# Time: 13:17				#
+
+henkka@void-linux:
+
+"Woke up in the morning, continue my journey, feeling pain and hunger..."
+
+"Like the song said, not a glorious morning so to speak..."
+
+"Did some log formatting and bash config editing, there's also a deadline approaching..."
+
+# 	To do list			#
+/garden project developement plan	/
+/garden project funding application	/
+-reply to accountant email
+
+#	End of journal entry 010	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 011		#
+# Day 2					#
+# Date: Thu 29 Feb 2024			#
+# Time: 15:45				#
+
+henkka@void-linux:
+
+"Hellurei! Some progress with river wm setup, some more programs launch and key binding changes apply."
+
+#	Progress			#
+-succesfully edited river init file configurations
+-fuzzel, clementine and vlc key bindings work
+-clementine music player launches and tray icon works
+-htop meters and information display setup done
+
+henkka@void-linux:
+
+"Whoaahh my whole bocy aches, must be something I ate last night..."
+
+"Weird vegetables, processed grain, GMO you name it, we'll get it!" 
+
+"The planet is suffering from serious lack of common sense, so what's the point?"
+
+
+#	End of journal entry 011	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 012		#
+# Day 2					#
+# Date: Thu 29 Feb 2024			#
+# Time: 20:00				#
+
+henkka@void-linux:
+
+
+"Spinach soup boosted with some fresh garloc to add some punch and dryed onion roast to bring in some more umamu... Yammy!"
+
+
+"I'm not exaactly sure how did I came here in the first place. This part of the timespace universe seems to be pretty empty, not much intelligent lifeforms visible..."
+
+
+"Just enter the Void..."
+
+#	System status check		#
+-base system is up to date and running well
+-very low memory usage on idle <200MB
+-disk space on filesystems ok
+-some essential system administration tools installed
+-system developement log regular updates
+-wired internet connection ok
+-graphical desktop launches and can be used
+-firefox web browser is functional
+-foot terminal works
+-fuzzel program launcher active
+
+#	Issues and bugs			#
+-river wm session exit (Super+Shift+E) crashes the system forcing to Ctrl+Alt+Del-reboot
+-no menu, no workspaces, no application bar
+-some keybindings and riverctl commands don't work
+-wireless network connection inactive
+-AMD ATI Radeon GPU not used
+
+#	Progress			#
+-some aliases and bash scripts written
+-log file format set
+-log backup bash script created
+-error logs directory set and debug logging tested
+-local repository directory created, git installed
+-some river wm configurations ok
+-clementine music player and vlc media player installed
+
+"Laundry time, shower time, water time. HaLiux, put the heater on please, I'm going down to the basement to scratch the surface and rub the dirt off me..."
+
+#	End of journal entry 012	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 013		#
+# Day 3					#
+# Date: Fri 01 Mar 2024			#
+# Time: 01:31				#
+
+henkka@void-linux:
+
+"Day three I'm on the road, I wanna see the world, I wanna cry the pain awaaaay!"
+
+"Sometimes even this kind of a progressive funky rock music can be goooood! HaLiux, let's play it some more, please..."
+
+"Updated and formatted this project log, added some background information and details. Quantum computing for bedtime stories, good night..."
+
+"Moonshine can make you mad."
+
+"Always bring your own glasses..."
+
+#	End of journal entry 013	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 014		#
+# Day 3					#
+# Date: Fri 01 Mar 2024			#
+# Time: 17:55				#
+
+henkka@void-linux:
+
+"Had real diffculties getting myself up and runnung properly."
+
+"Neural damage, osmotic imbalance, cellular fluid ion levels incorrect, motoric spasms... Fatal errors in basic funtcions..."
+
+"Execute alert bypass + forced thrust boost to continue..."
+
+"The life support system sensor and infusion reservoir had to be changed on order to stay in the automatic operation mode..."
+
+"Pan-Boy(tm) by TronMedicInc is essential for my very survival, without it I'd be dead in week or so..."
+
+# 	To do list			#
+-configure bash shell with redvoc-style prompt
+-write scripts and aliases for weather and speedtest
+-run river wm in debug log mode to track errors
+-configure river wm init file to fix issues
+-setup wireless network connection
+-configure ssh connection to the server
+
+"Read, write, excercise..."
+
+#	End of journal entry 014	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 015		#
+# Day 3					#
+# Date: Fri 01 Mar 2024			#
+# Time: 19:24				#
+
+henkka@void-linux:
+
+"The smell of French onion soup pemetrated the atmosphere leaving no room for fresh air..."
+
+"Emergency nutrition from the GECKO's additional supplement box 'Traditional european dishes in powder form' is going to last forever..."
+
+#	To do list			#
+-research necessary applications to improve system usability
+-install river wm compatible wayland desktop helper applets
+-network configuration GUI
+-system settings manager CLI/GUI
+-desktop appearance setup tools
+
+"We have visitors. HaLiux, check them in please."
+
+"Paralyzing cramps twist through my torso..."
+
+#	End of journal entry 015	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 016		#
+# Day 3					#
+# Date: Fri 01 Mar 2024			#
+# Time: 21:33				#
+
+henkka@void-linux:
+
+"Updated project info 'What is HaLiux', maybe the whole idea is now a little bit easier to understand?"
+
+#	Progress			#
+-log project information tables updated
+-cmatrix terminal screensaver
+-onion soup is ready
+
+henkka@void-linux:
+
+"I am not alone here, apparently this piece of rock is close to the great gravitation side stream that flows in between galaxies...?"
+
+"We've got company, some more unlucky travellers dropped by for a reason, they're runnig out of drinking water."
+
+"Easy way to run away, easy way to drive away, easy way to go away... HaLiux, more bass, please, it's EZ."
+
+"The famous rapper EZ-GRAF was named after this well known but barely used shortcut to nowhere." 
+
+"With correct timing you can shoot your ship ultra fast to the edge of the universe."
+
+"The water purification system controller microchip is broken, can I fix it?"
+
+#	End of journal entry 016	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 017		#
+# Day 4					#
+# Date: Sat 02 Mar 2024			#
+# Time: 01:00				#
+
+henkka@void-linux:
+
+"Plugged in the wires for an hour to recharge the battery and download system updates and additional applications. Update, install, reconfigure, poweroff, recharge..."
+
+#	Progress			#
+-updates and software downloaded and installed
+-additional support hardware added to project
+-main ship battery test indicates good condition
+
+"I've have managed to salvage a couple of old used vessels to reinforce my digistar fleet."
+
+" uNCASam X-Something: It just works! Reliable workhorse servant for every task calculable. This ö'Bantu-flashed retro space truck acts as a backup storage, cloud platform and communications transmission center." 
+
+" a5u5 D-lite, a small wobbly lifeboat shuttle from ages when computers had windows...??? What??? I tuned it to the present day with trusted ö'coce-flush and FFreONS-protocol."
+
+"With these tho extra machines I'll be more able to rebuild the main ship and reinforce the local support network. I can test drive different implementation programs with them, maybe HaLiux too...?"
+
+"Free French Onions Network Service provides you with a private and anonymous gateway to anyplace. Join our professional affiliate course now and become a succesful partner."
+
+#	To do list			#
+-setup git for log backup and custom scripts
+-reconfigure river wm overlapping key bindings
+-reconfigure river wm for alternative applets
+-add details to github user account information
+
+"Free onions for a lifetime!"
+
+#	End of journal entry 017	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 018		#
+# Day 4					#
+# Date: Sat 02 Mar 2024			#
+# Time: 14:04				#
+
+henkka@void-linux:
+
+"Edited this log file, added combined status tables and lists on top."
+
+"There must be a better way... HaLiux?"
+
+"No ship, no problem."
+
+"How to reach the stars then?"
+
+"Try it out, solve the problem."
+
+#	End of journal entry 018	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 019		#
+# Day 4					#
+# Date: Sat 02 Mar 2024			#
+# Time: 16:05				#
+
+henkka@void-linux:
+
+"Starship ready for the next functionality test drive, configurations for the river wm graphical desktop session updated..."
+
+"Reasy to take off? HaLiux, prepare for launch please, and for an expected emergency landing..."
+
+"Make a quick dry-run with a debug error log."
+
+#	End of journal entry 019	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 020		#
+# Day 4					#
+# Date: Sat 02 Mar 2024			#
+# Time: 19:14				#
+
+henkka@void-linux:
+
+"Test run with the updated system was a partial success, as I got a file manager application Space FM to spawn. There's also some drawbacks, bar and window tiling stopped working...?"
+
+"Fixed the key binding typos in the river wm init file. The debug log shows several keyboard-related warnings, some XF86-bindings could not be resolved. Commented out the related lines."
+
+"Added and edited some application shortcuts, let's see if they work any better now..."
+
+"For some reason the whole graphical desktop environment has slowed down a lot, maybe it has something to do with the updates...?"
+
+#	Progress			#
+-Space FM file manager installed and tested
+-floating windows work better than before
+-reboot or poweroff via foot terminal is a safer way to turn off the computer completely or return to the main shell CLI session.
+
+#	Issues and bugs			#
+-tiling stopped working after updates
+-some applications won't launch properly
+-keyboard/screen still hangs after keyboard shortcut exit
+
+"I need to reconfigure..."
+
+"Battery low!"
+
+#	End of journal entry 020	#
+-----------------------------------------
+
