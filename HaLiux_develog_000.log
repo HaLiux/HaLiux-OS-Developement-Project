@@ -256,6 +256,10 @@ Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO 
 -installed a text editor Lapce
 -installed a text editor Tau
 -trying out different calendars
+-updated logfile to github, added readmefiles for user profile and project repository
+-removed Libreoffice to free disk space at /. Installed Calligra suite for testing
+-created a separate To Do List txt file to clarify the project logging
+-started testing project tasks management with Merkuro calendar
 ----------------------------------------
 
 -----------------------------------------
@@ -277,10 +281,6 @@ Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO 
 -keyboard/screen still hangs after keyboard shortcut exit
 -foot terminal incorrect keyboard layout
 -some right click menu commands do not work
-
-
-
-
 -----------------------------------------
 
 -----------------------------------------
@@ -1147,4 +1147,25 @@ henkka@void-linux:
 "Libre office is a big bundle, over a gig in /usr/lib, trying to find a lighter alternative to it..."
 
 #	End of journal entry 029	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 030		#
+# Day 9 				#
+# Date: Thu 07 Mar 2024			#
+# Time: 12:36				#
+
+henkka@void-linux:
+
+"Small improvements and progress every day."
+
+#   Progress                    #
+-updated logfile to github, added readmefiles for user profile and project repository
+-removed Libreoffice to free disk space at /. Installed Calligra suite for testing
+-created a separate To Do List txt file to clarify the project logging
+-started testing project tasks management with Merkuro calendar
+
+"Issues and bugs still present, the wireless stopped working last night, could be a connection problem..?"
+
+#	End of journal entry 030	#
 -----------------------------------------
