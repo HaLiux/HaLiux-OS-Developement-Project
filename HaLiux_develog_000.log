@@ -137,7 +137,30 @@ Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO 
 -----------------------------------------
 
 -----------------------------------------
-# 	To to list			#
+#	Design goals			            #
+-----------------------------------------
+-speed, based on a minimal base system and a fast window manager
+-special core features: musl, runit, wayland, zig
+-productivity enhancements with tiling and integrated AI
+-H-layout, workspaces, window overview, taskbar
+-system administration: configurations and settings manager
+-desktop functionality: clipboard, screenshots, notifications
+-email,chat, calendar, personal journal, task-manager, project log
+-office applications: calculator, notepad, documents, spreadsheets, presentations, pdf
+-SDE: project manager, text-editor, AI-codemod, git, zig, compilers and debug tools
+-multimedia production capabilities, DAw, GIMP, video editor
+-HUD for fullscreen mode menu access and cool effects
+-cheatsheet quickbar for keyboard command learning support
+-voice control and private local network LLM-server
+-mobile-device content and control synchronization
+-private local network cloud collaboration platform
+-advanced networking security options: vpn, tor, veilid, LAN firewall proxy
+-enhanced privacy, system-level ad- and tracker-blocking
+-GPUs configured for optimal performance and maximum usage
+-----------------------------------------
+
+-----------------------------------------
+# 	     To to list  	                #
 -----------------------------------------
 -configure River WM: menu, launcher, application spawn, network
 -improve base system functionality: system administration tools
@@ -164,6 +187,27 @@ Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO 
 -network configuration GUI
 -system settings manager CLI/GUI
 -desktop appearance setup tools
+-setup git for log backup and custom scripts
+-reconfigure river wm overlapping key bindings
+-reconfigure river wm for alternative applets
+-add details to github user account information
+-research instructions for river wm setup
+-install necessary applications and applets
+-GUI text editor for river
+-system settings manager
+-install and setup fonts and icons for bar
+-fetch the complete Red Vocoder bash configuration file
+-configure foot terminal shell, prompt, /keyboard layout and font size/
+/fix the inactive wireless connection!	/
+-install lunarvim plugins: cheatsheet, codemod, zig
+-install desktop AI-assistant and search bot
+-write github readme file
+-configure touchpad click
+-configure river wm tags for more workspaces
+-configure rivertile H-layout
+-install clipboard-applet
+-install graphical login and lockscreen
+-study the keyboard/screen freeze after exit bug
 -----------------------------------------
 
 -----------------------------------------
@@ -194,7 +238,25 @@ Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO 
 -updates and software downloaded and installed
 -additional support hardware added to project
 -main ship battery test indicates good condition
------------------------------------------
+-Space FM file manager installed and tested
+-floating windows work better than before
+-reboot or poweroff via foot terminal is a safer way to turn off the computer completely or return to the main shell CLI session.
+-river wm tiling and floating works ok
+-many programs launch properly
+-git project repository created, log uploaded
+-network manager gui starts, yet wifi not enabled
+-file backups and transfers with local server succesful
+-wireless connetcion established
+-window tiling and view control keys ok
+-foot font size and correct keyboard layout set
+-lunarvim installed, needs more configuration
+-testing and axperimenting with settings and programs
+-installed themes and security extenxions for firefox
+-learning the workflow, memorizing key commands
+-installed a text editor Lapce
+-installed a text editor Tau
+-trying out different calendars
+----------------------------------------
 
 -----------------------------------------
 #	Issues and bugs			#
@@ -209,7 +271,16 @@ Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO 
 -no menu, no workspaces, no application bar
 -some keybindings and riverctl commands don't work
 -wireless network connection inactive
--AMD ATI Radeon GPU not used
+-AMD ATI Radeon GPU not recognised
+/tiling stopped working after updates	/
+-some applications won't launch properly
+-keyboard/screen still hangs after keyboard shortcut exit
+-foot terminal incorrect keyboard layout
+-some right click menu commands do not work
+
+
+
+
 -----------------------------------------
 
 -----------------------------------------
@@ -252,6 +323,15 @@ Special features:	musl, runit, wayland, zig >> NO glibc, NO systemd, NO X11, NO 
 -firefox web browser is functional
 -foot terminal works
 -fuzzel program launcher active
+#   System status update            #
+-system and desktop usability ok
+-many issues still present
+-root file system about 85% full
+-need to clean and resize filesystems
+-----------------------------------------
+
+-----------------------------------------
+#       Personal project journal        #
 -----------------------------------------
 
 -----------------------------------------
@@ -816,3 +896,255 @@ henkka@void-linux:
 #	End of journal entry 020	#
 -----------------------------------------
 
+-----------------------------------------
+# 	Journal entry 021		#
+# Day 5					#
+# Date: Sun 03 Mar 2024			#
+# Time: 00:05				#
+
+henkka@void-linux:
+
+"Yes, it's getting better! Plugged in the wires again to do some updates and configurations. Graphical desktop is now a bit more usable."
+
+#	Progress			#
+-river wm tiling and floating works ok
+-many programs launch properly
+-git project repository created, log uploaded
+-network manager gui starts, yet wifi not enabled
+-file backups and transfers with local server succesful
+
+"I've started to make outbound communication attemps in order to establish a personal support network."
+
+"Join the volunteer cyberspace exploring adventurer's communities! It's fun!"
+
+"Give and get support in common quests for the hypercode singularity."
+
+"Bithug Void sucks me in..." 
+
+#	End of journal entry 021	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 022		#
+# Day 5					#
+# Date: Sun 03 Mar 2024			#
+# Time: 15:01				#
+
+henkka@void-linux:
+
+"My body is not fully adapted to the local environment, the gravity feels so heavy..."
+
+"Some local group had a ritual event practice nearby, I could hear drumming and singing from a distance. Traditional nature gods worshipping I guess...?"
+
+"Day starts slowly, digestion problems, low energy levels duo to malnutrition... HaLiux, did I eat something weird last night? I don't feel well..."
+
+"There's some serious test driving and tuning ahead so I better shape myself up and start grinding..."
+
+#	End of journal entry 022	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 023		#
+# Day 5					#
+# Date: Sun 03 Mar 2024			#
+# Time: 17:05				#
+
+henkka@void-linux:
+
+"Learning to use the tiling window manager and keyboard commands, this looks promising...!"
+
+"I need to reaearch the cosmic web for more information about specific configurations."
+
+#	To do list			#
+-research instructions for river wm setup
+-install necessary applications and applets
+-GUI text editor for river
+-system settings manager
+-install and setup fonts and icons for bar
+-fetch the complete Red Vocoder bash configuration file
+-configure foot terminal shell, prompt, /keyboard layout and font size/
+/fix the inactive wireless connection!	/
+
+#	End of journal entry 023	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 024		#
+# Day 6					#
+# Date: Mon 04 Mar 2024			#
+# Time: 01:52				#
+
+henkka@void-linux:
+
+"Finally I got this ship flying off-wire!!! Now it's becoming a real useful machine instead of an experimental trial-and-error prototype."
+
+#	Progress			#
+-wireless connetcion established
+-window tiling and view control keys ok
+-foot font size and correct keyboard layout set
+-lunarvim installed, needs more configuration
+
+#	To do list			#
+-install lunarvim plugins: cheatsheet, codemod, zig
+-install desktop AI-assistant and search bot
+-write github readme file
+-configure touchpad click
+-configure river wm tags for more workspaces
+-configure rivertile H-layout
+-install clipboard-applet
+-install graphical login and lockscreen
+-study the keyboard/screen freeze after exit bug
+
+"I'm in space! Cyberhyper codespace! Intergalactic web of knowledge and passion! Universal intelligent neural system!"
+
+"Computer fungi...? HaLiux, is there a worm or a horse someware?"
+
+#	End of journal entry 024	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 025		#
+# Day 6					#
+# Date: Mon 04 Mar 2024			#
+# Time: 14:39				#
+
+henkka@void-linux:
+
+"Hmm a sudden chrash with firefox after plugin/theme install, application freezed and some keybinds stopped working. Reboot needed..."
+
+"Wireless service gives a warning at boot login, some misconfiguration with p2p-manager, It still works ok so no serious problem I guess..."
+
+"More work, more fun."
+
+#	End of journal entry 025	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 026		#
+# Day 6					#
+# Date: Mon 04 Mar 2024			#
+# Time: 18:28				#
+
+henkka@void-linux:
+
+"Setting up the desktop and developement environment, adding features, fine tuning and configurin details..."
+
+#	Progress			#
+-testing and axperimenting with settings and programs
+-installed themes and security extenxions for firefox
+-learning the workflow, memorizing key commands
+
+"Damn this runs fast! Cyberspeed limits don't count when I'm on a ride!"
+
+"I need more juice, heading back to the hangar for a recharge... HaLiux, take us home please."
+
+"You better check yourself before you wreggidi wreck yourself."
+
+#	End of journal entry 026	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 027		#
+# Day 7					#
+# Date: Tue 05 Mar 2024			#
+# Time: 00:22				#
+
+henkka@void-linux:
+
+"The craft and the crew is recharged, batteries full."
+
+"Some thoughts about the HaLiux OS developement goals: Fast and functional operating system for workstations and mobile devices."
+
+#	Design goals			#
+-speed, based on a minimal base system and a fast window manager
+-special core features: musl, runit, wayland, zig
+-productivity enhancements with tiling and integrated AI
+-H-layout, workspaces, window overview, taskbar
+-system administration: configurations and settings manager
+-desktop functionality: clipboard, screenshots, notifications
+-email,chat, calendar, personal journal, task-manager, project log
+-office applications: calculator, notepad, documents, spreadsheets, presentations, pdf
+-SDE: project manager, text-editor, AI-codemod, git, zig, compilers and debug tools
+-multimedia production capabilities, DAw, GIMP, video editor
+-HUD for fullscreen mode menu access and cool effects
+-cheatsheet quickbar for keyboard command learning support
+-voice control and private local network LLM-server
+-mobile-device content and control synchronization
+-private local network cloud collaboration platform
+-advanced networking security options: vpn, tor, veilid, LAN firewall proxy
+-enhanced privacy, system-level ad- and tracker-blocking
+-GPUs configured for optimal performance and maximum usage
+
+"Back then, when I was stuck at some random transport terminal in cosmos during the great quarantine..."
+
+"I got somehow involved with some shady Frenchies who persuaded me to join their iniative."
+
+"Galactic freedom network, they said..."
+
+"Yeah I had to spend some time with 'em keeping a low profile for security reasons, before we actually got into the action."
+
+"So I got used to their peculiar customs and learned the most important survival skill a living thing can imagine..."
+
+"The French Onion Soup!"
+
+"No need to say no more. It keeps you going wherever you go, and it never runs out!"
+
+"Learn to prepare."
+
+#	End of journal entry 027	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 028		#
+# Day 8 				#
+# Date: Wed 06 Mar 2024			#
+# Time: 00:54				#
+
+henkka@void-linux:
+
+"Installing and testing new applications."
+
+#   Progress                    #
+-installed a text editor Lapce
+-installed a text editor Tau
+-trying out different calendars
+
+"Learning to use the Void and the river."
+
+#	End of journal entry 028	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 029		#
+# Day 8 				#
+# Date: Wed 06 Mar 2024			#
+# Time: 19:03				#
+
+henkka@void-linux:
+
+"Oh man it was refreshing to go out for a cruise! Went out to the local crossroads hub to get some supplies."
+
+"The Redeye's Strenght Building Spinach Block 0degK!. - ZR0K for short, sailors only choice for effort!"
+
+"This legendary multi-purpose product is widely used in construction business below freezing temperatures."
+
+"And it's edible too."
+
+#   System status update        #
+-system and desktop usability ok
+-many issues still present
+-root file system about 85% full
+-need to clean and resize filesystems
+
+"Hmm root disk is filling up again, apparently some additionan libraries take up a lot of space."
+
+"I have to investigate the matter further to find out what's eating my disk space so quickly."
+
+"I tested many applictions to see whicn are suitable for my purposes, installed, tried and removed."
+
+"Maybe those alternative applications require some large libraries stored in /usr to function."
+
+"Libre office is a big bundle, over a gig in /usr/lib, trying to find a lighter alternative to it..."
+
+#	End of journal entry 029	#
+-----------------------------------------
