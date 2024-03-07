@@ -26,9 +26,9 @@ Design goals
 - enhanced privacy, system-level ad- and tracker-blocking
 - GPUs configured for optimal performance and maximum usage
 
-Henkka just entered the Void.
+See the project log and follow the imaginative story of a shipwreck cybespace sailor lost in the void..."
 
-https://github.com/HaLiux
+https://github.com/HaLiux/HaLiux-OS-Developement-Project/HaLiux_Develog_000.log
 
 Contact:
 henri.liukka@protonmail.com
