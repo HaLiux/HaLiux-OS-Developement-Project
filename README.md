@@ -28,7 +28,7 @@ Design goals
 
 See the project log and follow the imaginative story of a shipwreck cybespace sailor lost in the void..."
 
-https://github.com/HaLiux/HaLiux-OS-Developement-Project/HaLiux_Develog_000.log
+HaLiux Developement Project Log$$$https://github.com/HaLiux/HaLiux-OS-Developement-Project/blob/main/HaLiux_Develog_000.log
 
 Contact:
 henri.liukka@protonmail.com
