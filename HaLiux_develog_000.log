@@ -1202,3 +1202,20 @@ henkka@void-linux:
 #	End of journal entry 032	#
 -----------------------------------------
 
+
+-----------------------------------------
+# 	Journal entry 033		#
+# Day 9 				#
+# Date: Thu 07 Mar 2024			#
+# Time: 21:15				#
+
+henkka@void-linux:
+
+"Learned some new things about GitHub, no shell access option..."
+
+"I'll have to study and create a good way to edit and synchronize log and config files."
+
+"Let's see if this Lapce-editor could be connected to GitHub directly..."
+
+#	End of journal entry 033	#
+-----------------------------------------
