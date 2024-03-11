@@ -1174,13 +1174,16 @@ henkka@void-linux:
 # 	Journal entry 031		#
 # Day 9 				#
 # Date: Thu 07 Mar 2024			#
-# Time: 16:35				#
+# Time: 17:22				#
 
 henkka@void-linux:
 
-"Playing around with git, testing and learning commits etc..."
+"Playing around with git, testin and learning commits and general use..."
 
-"This ship works like an onion."
+"Published the project repo, I'm online!"
+
+"Off we go, said the sailor when crash-landed on a rock."
+
 
 #	End of journal entry 031	#
 -----------------------------------------
@@ -1202,7 +1205,6 @@ henkka@void-linux:
 #	End of journal entry 032	#
 -----------------------------------------
 
-
 -----------------------------------------
 # 	Journal entry 033		#
 # Day 9 				#
@@ -1218,4 +1220,29 @@ henkka@void-linux:
 "Let's see if this Lapce-editor could be connected to GitHub directly..."
 
 #	End of journal entry 033	#
+-----------------------------------------
+
+-----------------------------------------
+# 	Journal entry 034		#
+# Day 10    				#
+# Date: Sat 09 Mar 2024			#
+# Time: 08:47				#
+
+henkka@void-linux:
+:
+
+"This is the last update to this original project log and journal."
+
+
+"From now on, The HaLiux OS Developement Project log, journal and notes are kept in a different format."
+
+
+"The project documentation is written and edited with Notes-Up application and stored at ~/Notes folder. Backups at local server and at GitHub."
+
+
+#	End of journal entry 034	#
+-----------------------------------------
+
+-----------------------------------------
+#	Journal format change to markdown	#
 -----------------------------------------
